@@ -1,0 +1,36 @@
+# Tree Down 1	--------------
+; Floor 0
+0 0 0 plantgrow:giantjungletree
+; Floor -1
+0 -1 0 plantgrow:giantjungletree
+; Floor -2
+0 -2 0 plantgrow:treedown
+# Tree Down 2	--------------
+; Floor 0
+0 0 0 plantgrow:giantjungletree
+; Floor -1
+0 -1 0 plantgrow:giantjungletree
+1 -1 0 plantgrow:giantjungletree
+1 -1 -1 plantgrow:giantjungleleaves
+1 -1 1 plantgrow:giantjungleleaves
+; Floor -2
+0 -2 0 plantgrow:treedown
+1 -2 0 plantgrow:giantjungleleaves
+# Tree Down 3	--------------
+; Floor 0
+0 0 0 plantgrow:giantjungletree
+; Floor -1
+0 -1 0 plantgrow:giantjungletree
+; Floor -2
+0 -2 0 plantgrow:treedown
+# Tree Down 4	--------------
+; Floor 0
+0 0 0 plantgrow:giantjungletree
+; Floor -1
+0 -1 0 plantgrow:giantjungletree
+-1 -1 0 plantgrow:giantjungletree
+-1 -1 -1 plantgrow:giantjungleleaves
+-1 -1 1 plantgrow:giantjungleleaves
+; Floor -2
+0 -2 0 plantgrow:treedown
+-1 -2 0 plantgrow:giantjungleleaves
