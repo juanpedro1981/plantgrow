@@ -1,0 +1,3 @@
+default
+fire (in mobs API)
+bones (in mobs API)
