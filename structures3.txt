@@ -1,0 +1,50 @@
+# Tree Down 1	--------------
+; Floor 0
+0 0 0 plantgrow:giantjungletree
+; Floor -1
+0 -1 0 plantgrow:podblock
+1 -1 1 plantgrow:giantjungleleaves
+1 -1 -1 plantgrow:giantjungleleaves
+-1 -1 1 plantgrow:giantjungleleaves
+-1 -1 -1 plantgrow:giantjungleleaves
+; Floor -2
+1 -2 0 plantgrow:podblock
+-1 -2 0 plantgrow:podblock
+0 -2 0 plantgrow:podinside
+0 -2 1 plantgrow:podblock
+0 -2 -1 plantgrow:podblock
+; Floor -3
+1 -3 0 plantgrow:podblock
+-1 -3 0 plantgrow:podblock
+0 -3 0 plantgrow:podinside
+0 -3 1 plantgrow:podblock
+0 -3 -1 plantgrow:podblock
+; Floor -4
+0 -4 0 plantgrow:podblock
+; Grow Pea
+0 -3 0 plantgrow:pea
+# Tree Down 2	--------------
+; Floor 0
+0 0 0 plantgrow:giantjungletree
+; Floor -1
+0 -1 0 plantgrow:podblock
+0 -1 1 plantgrow:giantjungleleaves
+0 -1 -1 plantgrow:giantjungleleaves
+1 -1 0 plantgrow:giantjungleleaves
+-1 -1 0 plantgrow:giantjungleleaves
+; Floor -2
+1 -2 0 plantgrow:podblock
+-1 -2 0 plantgrow:podblock
+0 -2 0 plantgrow:podinside
+0 -2 1 plantgrow:podblock
+0 -2 -1 plantgrow:podblock
+; Floor -3
+1 -3 0 plantgrow:podblock
+-1 -3 0 plantgrow:podblock
+0 -3 0 plantgrow:podinside
+0 -3 1 plantgrow:podblock
+0 -3 -1 plantgrow:podblock
+; Floor -4
+0 -4 0 plantgrow:podblock
+; Grow Pea
+0 -3 0 plantgrow:pea
