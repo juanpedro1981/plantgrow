@@ -13,7 +13,7 @@ minetest.register_node("plantgrow:giantjungletree", {
 	},
 	on_place = minetest.rotate_node,
 	on_dig = function(pos, node, digger)
-		default.dig_tree(pos, node, "default:giantjungletree", digger, 12, 5)
+		default.dig_tree(pos, node, "plantgrow:giantjungletree", digger, 12, 5)
 	end,
 })
 
