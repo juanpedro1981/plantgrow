@@ -208,7 +208,7 @@ plantgrow:register_mob("plantgrow:littleent", {
 	},
 	visual_size = {x=1,y=1},
 	visual = "mesh",
-	mesh = "plantgrow_littleent2.b3d",
+	mesh = "plantgrow_littleent.b3d",
 	view_range = 20,
 	makes_footstep_sound = true,
 	walk_velocity = 1,
