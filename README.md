@@ -1,6 +1,8 @@
 # plantgrow
 Mod for Minetest
 
+I don't know to program LUA. I don't know how use "mapgen" to insert "plantgrow:giantjungletree" in the game. Sorry.
+
 I use part of the follow mods and subgame
 -------------------------------------------------------
 ---------------------- Livehouse ----------------------
