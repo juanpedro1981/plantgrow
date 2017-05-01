@@ -12,9 +12,6 @@ minetest.register_node("plantgrow:giantjungletree", {
 		place = {name="default_wood_footstep", gain=1.0},
 	},
 	on_place = minetest.rotate_node,
-	on_dig = function(pos, node, digger)
-		default.dig_tree(pos, node, "plantgrow:giantjungletree", digger, 12, 5)
-	end,
 })
 
 minetest.register_node("plantgrow:giantjungleleaves", {
